@@ -10,6 +10,8 @@ The website for the Space Alberta Exploration Robotics Club.
 - Implement styling as shown in team drive
 - Parallax Scrolling
 - Read through for spelling mistakes
+- Hyperlink contact information
+- Potentially add bottom division for extra links and to add spacing to page
 
 ## Bug List :(
 - Blog page pagignation can't change the number of blog posts per page
